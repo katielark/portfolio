@@ -12,3 +12,4 @@ I wrote this paper to synthesize research I conducted as part of my participatio
 
 My team and I conducted an exploratory analysis of the World Happiness Report from 2005-2023. 
 
+
