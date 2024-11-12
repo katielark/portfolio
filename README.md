@@ -12,4 +12,5 @@ I wrote this paper to synthesize research I conducted as part of my participatio
 
 My team and I conducted an exploratory analysis of the World Happiness Report from 2005-2023. 
 
-
+Here are a few files from my project through NYU's CURP program:
+[Download my notebook for NYU CURP program](https://github.com/katielark/curp/blob/main/bivariate_fine_revenue_-plus_1_mlr-.pdf).
