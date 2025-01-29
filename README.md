@@ -18,7 +18,7 @@ MATH 485- Advanced Topics in Data Visualization:
 [Download my notebook for Math 485-Tabular Data Unit Project "Geography of Joy"](https://github.com/katielark/data_viz/blob/main/project_1_final%20(1).ipynb).
 
 [Download my notebook for Math 485-Final Project]
-()
+(https://github.com/katielark/data_viz/blob/main/final_data_project.ipynb). 
 
 
 
